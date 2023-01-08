@@ -1,0 +1,21 @@
+* {
+    margin: 10px;
+    
+}
+header {
+    display: flex;
+    background-image: url('images/banner/banner1.png');
+    height: 800px;
+    width: 100%;
+}
+
+.right-side {
+    width: 60%;
+}
+.btn-contact {
+    display: flex;
+    background-color: orange;
+    color:white;
+    border: none;
+}
+
